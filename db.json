@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password1"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "password": "password2"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "name": "John White",
+      "currentPayments": 1,
+      "totalPayments": 10,
+      "status": "Nuevo",
+      "phoneNumber": "+52 6699186087",
+      "address": "Real del valle #3421",
+      "city": "San francisco",
+      "state":"California",
+      "totalAmount": "30000"
+    },
+    {
+        "id": "2",
+        "name": "Laura Sanchez",
+        "currentPayments": 1,
+        "totalPayments": 10,
+        "status": "Vencido",
+        "phoneNumber": "+52 6699186087",
+        "address": "Real del valle #3421",
+        "city": "Mazatlán",
+        "state":"Sinaloa",
+        "totalAmount": "10000"
+      },
+      {
+        "id": "3",
+        "name": "Juan Arnulfo",
+        "currentPayments": 9,
+        "totalPayments": 10,
+        "status": "Moratorio",
+        "phoneNumber": "+52 6691120460",
+        "address": "La Villa #221",
+        "city": "Culiacan",
+        "state":"Sinaloa",
+        "totalAmount": "1500"
+      },
+      {
+        "id": "4",
+        "name": "Alberto Villa",
+        "currentPayments": 9,
+        "totalPayments": 10,
+        "status": "Al Corriente",
+        "phoneNumber": "+52 552145122",
+        "address": "Real del valle #3421",
+        "city": "Tepic",
+        "state":"Nayarit",
+        "totalAmount": "2000"
+      }
+  ]
+}
