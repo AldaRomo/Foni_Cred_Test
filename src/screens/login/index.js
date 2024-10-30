@@ -261,7 +261,7 @@ const styles = StyleSheet.create({
   input: {
     width: dim.WIDTH - 50,
     backgroundColor: colors.cuartery,
-    fontFamily: "Poppins-regular",
+    fontFamily: "Poppins-Regular",
     fontSize: 20,
     color: colors.black,
     textAlign: "center",

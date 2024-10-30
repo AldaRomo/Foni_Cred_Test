@@ -82,6 +82,6 @@ const styles = StyleSheet.create({
     textAlign: "center",
     color: colors.black,
     fontSize: 14,
-    fontFamily: "Montserrat-Regular",
+    fontFamily: "Poppins-Regular",
   },
 });
